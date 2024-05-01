@@ -6,7 +6,7 @@
 
 ## Description
 
-Brief description of your project.
+Our solution aims to support farmers during droughts and low rainfall season by predicting the amount of rainfall that is expected in their region for that season and suggesting various crops that will produce the maximum produce the climate.
 
 ## Features
 
