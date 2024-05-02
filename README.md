@@ -25,8 +25,6 @@ Our solution aims to support farmers during droughts and low rainfall season by 
 \```bash
 # commands or instructions for using your project
 \```
-## Sources
-[Rain Fall Data Set](https://www.kaggle.com/datasets/iamkevin/united-states-rainfall?resource=download)
 
 ## Contributing
 
