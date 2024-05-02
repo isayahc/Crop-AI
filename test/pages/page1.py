@@ -3,7 +3,7 @@ import streamlit as st
 def all_params() :
     st.subheader("Find out what crops/plants to grow.")
     st.sidebar.success("Type of Data")
-    st.sidebar.page_link("mainApp.py", label="Home")
+    st.sidebar.page_link("mainapp.py", label="Home")
     st.sidebar.page_link('pages/page1.py', label="Input All Fields")
     st.sidebar.page_link('pages/page2.py', label="Location as Field")
     Ncontent = st.text_input("Nitrogen in soil")
