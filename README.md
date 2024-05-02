@@ -9,7 +9,7 @@
 Using data on humidity, soil nutrients, and temperature to train our ML model to give crop recommendations to farmers to efficiently plan 
 their crop rotations to maximize crop yield.  
 
-##Tech Stack Flow
+## Tech Stack Flow
 [![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=Python)](Python)
 
 
