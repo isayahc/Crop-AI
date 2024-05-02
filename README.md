@@ -4,6 +4,7 @@
 [![Coverage Status](https://img.shields.io/coveralls/username/reponame.svg?style=flat-square)](https://coveralls.io/github/username/reponame)
 [![License](https://img.shields.io/github/license/isayahc/python-sample-template.svg?style=flat-square)](LICENSE)
 [![Python](https://camo.githubusercontent.com/d73a06f6970294a2b730e690c86311aa0a605054f11b53ce6ba4fb9e82f3fe87/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f697079666c6f772e737667)](Python)
+[![Vertex Ai](https://s.yimg.com/ny/api/res/1.2/T0.CUusahGV3R9LfKQjkYQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xMzUwO2NmPXdlYnA-/https://media.zenfs.com/en/android_central_347/d16bdbd5799f78d5eadabc36bc9d778b)](Vertex Ai) 
 
 ## Description
 
@@ -11,10 +12,6 @@ Using data on humidity, soil nutrients, and temperature to train our ML model to
 their crop rotations to maximize crop yield.  
 
 ## Demo
-
-
-
-## Stack 
 
 
 ## Contributors
