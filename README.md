@@ -26,10 +26,10 @@ their crop rotations to maximize crop yield.
 \```
 
 ## Contributors
-[Jian Jin Chen](https://github.com/JJC3321)
-[Omobolaji Alabi](https://github.com/SlinkyWalnut)
-[Rahel Kemal](https://github.com/rahelskemal)
-[Daniel Chen](https://github.com/dchen024)
+[Jian Jin Chen](https://github.com/JJC3321) <br />
+[Omobolaji Alabi](https://github.com/SlinkyWalnut) <br />
+[Rahel Kemal](https://github.com/rahelskemal) <br />
+[Daniel Chen](https://github.com/dchen024) <br />
 Katie Bluth
 
 ## License
