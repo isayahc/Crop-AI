@@ -1,10 +1,23 @@
 # [START aiplatform_predict_tabular_classification_sample]
 from typing import Dict
-
+import os
 from google.cloud import aiplatform
 from google.protobuf import json_format
 from google.protobuf.struct_pb2 import Value
+from dotenv import load_dotenv
 
+# Load environment variables from the .env file, if it exists
+load_dotenv()
+
+# Access the environment variable
+credentials_path = os.getenv('GOOGLE_APPLICATION_CREDENTIALS')
+
+if credentials_path:
+    # Use the credentials path for authentication (specific steps depend on your library)
+    print(f"Using credentials from: {credentials_path}")
+    # ... (Your authentication logic using the credentials path)
+else:
+    print("Warning: GOOGLE_APPLICATION_CREDENTIALS environment variable not set.")
 
 def predict_tabular_classification_sample(
     project: str = "650189184672",
