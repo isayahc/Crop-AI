@@ -5,12 +5,13 @@ from api import predict_tabular_classification_sample
 
 
 def location_params() :
-    st.title("Flexible Farmers")
+    st.title("Flexible Farming")
     st.subheader("Recommend crops for your current conditions")
     st.sidebar.success("Type of Data")
     st.sidebar.page_link("mainapp.py", label="Home")
     st.sidebar.page_link('pages/page1.py', label="Input All Fields")
     st.sidebar.page_link('pages/page2.py', label="Location as Field")
+    st.sidebar.page_link('pages/page3.py', label="Biotech")
     location = st.text_input("Enter your location")
     
     Ncontent = st.text_input("Nitrogen in soil")
@@ -19,9 +20,9 @@ def location_params() :
     ph = st.text_input("ph of soil")
     rainfall = st.text_input("rainfall in mm")
     if st.button("Submit") :
-        humidity = get_humidity(location)
+        humidity = str(get_humidity(location))
         temperature = get_temp(location)
-        temperature = round(temperature, 2)
+        temperature = str(round(temperature, 2))
         data = predict_tabular_classification_sample(instance_dict={
             "N":Ncontent,
             "P":Pcontent,

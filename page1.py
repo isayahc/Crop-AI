@@ -8,6 +8,7 @@ def all_params() :
     st.sidebar.page_link("mainapp.py", label="Home")
     st.sidebar.page_link('pages/page1.py', label="Input All Fields")
     st.sidebar.page_link('pages/page2.py', label="Location as Field")
+    st.sidebar.page_link('pages/page3.py', label="Biotech")
     Ncontent = st.text_input("Nitrogen in soil")
     Pcontent = st.text_input("Phosphorous in soil")
     Kcontent = st.text_input("Potassium in soil")
