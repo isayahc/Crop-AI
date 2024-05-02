@@ -12,5 +12,25 @@ def biotech() :
     Kcontent = st.text_input("Potassium in soil")
     ph = st.text_input("ph of soil")
     language = st.text_input("Language")
+    if st.button("Submit") :
+    #call api here
+    # st.write("") 
+        data = {
+            "N":Ncontent,
+            "P":Pcontent,
+            "K":Kcontent,
+            # "temperature": temperature,
+            # "humidity": humidity,
+            "ph":ph,
+            # "rainfall": rainfall,
+            "language" :language,
+            # "language" :language,
+        }
+    query_build = f"answer the user in {data['language']}. In my location the concentration of Nitrogen is {data['Ncontent']} the concentration of \
+        Phosphorus is {data['Pcontent']}, the contration of potssium is {data['Pcontent']} \
+    .I am looking for a gene that can be used for baker's yeast to prevent or even reconstitute the soil from drought. "
+    
+    
+    st.write(query_build)
     
     
