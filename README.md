@@ -6,7 +6,8 @@
 
 ## Description
 
-Our solution aims to support farmers during droughts and low rainfall season by predicting the amount of rainfall that is expected in their region for that season and suggesting various crops that will produce the maximum produce the climate.
+Using data on humidity, soil nutrients, and temperature to train our ML model to give crop recommendations to farmers to efficiently plan 
+their crop rotations to maximize crop yield.  
 
 ## Features
 
@@ -19,16 +20,17 @@ Our solution aims to support farmers during droughts and low rainfall season by 
 \```bash
 # commands to install the project
 \```
-
 ## Usage
-
 \```bash
 # commands or instructions for using your project
 \```
 
-## Contributing
-
-Instructions for how to contribute to the project.
+## Contributors
+[Jian Jin Chen](https://github.com/JJC3321)
+[Omobolaji Alabi](https://github.com/SlinkyWalnut)
+[Rahel Kemal](https://github.com/rahelskemal)
+[Daniel Chen](https://github.com/dchen024)
+Katie Bluth
 
 ## License
 
