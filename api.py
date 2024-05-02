@@ -51,9 +51,18 @@ def predict_tabular_classification_sample(
     # # See gs://google-cloud-aiplatform/schema/predict/prediction/tabular_classification_1.0.0.yaml for the format of the predictions.
     predictions = response.predictions
     # for prediction in predictions:
-    #     print(" prediction:", dict(prediction))
+    # print(" prediction:", dict(prediction))
 
-    return (predictions[0]['classes'][0]) ,(predictions[0]['scores'][0])    
+    
+    
+    size = len(predictions[0]['scores'])
+    score = (predictions[0]['scores'][0])
+    index = 0
+    for i in range(size - 1):   
+        if(score < (predictions[0]['scores'][i+1])):
+            index = i + 1
+    return (predictions[0]['classes'][index])  
+
 
 # ! ONLY CHANGE THIS
 predict_tabular_classification_sample(instance_dict={
