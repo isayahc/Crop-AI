@@ -14,7 +14,7 @@ their crop rotations to maximize crop yield.
 
 
 ## Stack 
-https://img.shields.io/pypi/pyversions/coveralls.svg?style=flat-square&label=Python%20Versions
+https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 
 ## Contributors
 [Jian Jin Chen](https://github.com/JJC3321) <br />
