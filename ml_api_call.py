@@ -19,7 +19,6 @@ if credentials_path:
 else:
     print("Warning: GOOGLE_APPLICATION_CREDENTIALS environment variable not set.")
 
-
 def predict_tabular_classification_sample(
     project: str = "650189184672",
     endpoint_id: str = "6351896265847996416",
