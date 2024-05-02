@@ -56,7 +56,8 @@ def predict_tabular_classification_sample(
 
 
 # ! ONLY CHANGE THIS
-predict_tabular_classification_sample(instance_dict={
+predict_tabular_classification_sample(
+    instance_dict={
     "N": "90", # Nitrogen concentration
     "P": "42", # phosphorus concentration
     "K": "43", # potassiunm concentration
@@ -64,6 +65,7 @@ predict_tabular_classification_sample(instance_dict={
     "humidity": "82.00274423", # humidity of the area
     "ph": "6.502985292000001", # ph level of the soil 
     "rainfall": "202.9355362", # rainfall on average 
-})
+    }
+        )
 
 # [END aiplatform_predict_tabular_classification_sample]
