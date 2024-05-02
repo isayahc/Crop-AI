@@ -3,6 +3,7 @@
 [![Build Status](https://img.shields.io/travis/username/reponame.svg?style=flat-square)](https://travis-ci.org/username/reponame)
 [![Coverage Status](https://img.shields.io/coveralls/username/reponame.svg?style=flat-square)](https://coveralls.io/github/username/reponame)
 [![License](https://img.shields.io/github/license/isayahc/python-sample-template.svg?style=flat-square)](LICENSE)
+[![Python](https://camo.githubusercontent.com/d73a06f6970294a2b730e690c86311aa0a605054f11b53ce6ba4fb9e82f3fe87/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f697079666c6f772e737667)]
 
 ## Description
 
@@ -14,7 +15,7 @@ their crop rotations to maximize crop yield.
 
 
 ## Stack 
-<img src="![Python jpg](https://github.com/isayahc/Crop-AI/assets/122761865/42e9e4eb-3eee-4354-ac6a-206135697c13)" alt="drawing" height="10" width="20"/>
+
 
 ## Contributors
 [Jian Jin Chen](https://github.com/JJC3321) <br />
