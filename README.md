@@ -16,7 +16,7 @@ their crop rotations to maximize crop yield.
 
 ## Demo
 
-![Demo](https://github.com/isayahc/Crop-AI/assets/122761865/a7f14b15-1c8b-4637-933f-6c22a360ce72)
+![Demo](https://github.com/isayahc/Crop-AI/assets/122761865/88076025-3225-47e1-996f-b6ac37517312)
 
 ## Contributors
 [Jian Jin Chen](https://github.com/JJC3321) <br />
