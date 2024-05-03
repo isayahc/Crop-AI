@@ -6,13 +6,15 @@
 
 ## Description
 
-Using data on humidity, soil nutrients, and temperature to train our ML model to give crop recommendations to farmers to efficiently plan 
-their crop rotations to maximize crop yield.  
+Using data on humidity, soil nutrients, and temperature to train our machine learning model to give crop recommendations to farmers to plan
+their crop rotations to maximize crop yield and efficiently use their reasouces. This done through a web app that takes in information that farmers 
+input and then takes those data inputs into our machine learning model hosted on Google Cloud that would output the crop recommendation. 
 
 ## Tech Stack 
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow&style=for-the-badge)](Python) 
 [![Google Cloud](https://img.shields.io/badge/-googlecloud-4285F4?logo=googlecloud&logoColor=red&style=for-the-badge)](GoogleCloud)
-
+[![Vertex AI](https://img.shields.io/badge/%20Vertex%20AI-4169E1?style=for-the-badge)](VertexAi)
+[![Steam Lit](https://img.shields.io/badge/Steamlit-black?style=for-the-badge&logo=streamlit)](SteamLit)
 
 ## Demo
 
