@@ -11,7 +11,7 @@ their crop rotations to maximize crop yield.
 
 ## Tech Stack 
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow&style=for-the-badge)](Python) 
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-grey?style=for-the-badge&logo=googlecloud)](GoogleCloud)
+[![Google Cloud](https://img.shields.io/badge/-googlecloud-4285F4?logo=googlecloud&logoColor=red&style=for-the-badge)](GoogleCloud)
 
 
 ## Demo
