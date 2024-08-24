@@ -14,7 +14,7 @@ input and then takes those data inputs into our machine learning model hosted on
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow&style=for-the-badge)](Python) 
 [![Google Cloud](https://img.shields.io/badge/-googlecloud-4285F4?logo=googlecloud&logoColor=red&style=for-the-badge)](GoogleCloud)
 [![Vertex AI](https://img.shields.io/badge/%20Vertex%20AI-4169E1?style=for-the-badge)](VertexAi)
-[![Stream Lit](https://img.shields.io/badge/Steamlit-black?style=for-the-badge&logo=streamlit)](StreamLit)
+[![Stream Lit](https://img.shields.io/badge/Streamlit-black?style=for-the-badge&logo=streamlit)](StreamLit)
 
 ## Demo
 
